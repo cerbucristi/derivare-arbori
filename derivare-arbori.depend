@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634043587 source:c:\users\cerbu cristi\desktop\proiecte cv\derivare-arbori\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<graphics.h>
+
